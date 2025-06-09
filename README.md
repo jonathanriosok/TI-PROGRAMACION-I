@@ -44,6 +44,13 @@
 
   ---
 
+  ## 🎥 Video explicativo
+
+  Podés ver una demostración completa del funcionamiento y desarrollo del proyecto en el siguiente enlace:  
+  👉 [https://youtu.be/2SAgacWTAso](https://youtu.be/2SAgacWTAso)
+
+  ---
+
   ## 🎯 Reflexión del equipo
 
   Este proyecto nos permitió aplicar conceptos fundamentales de la programación como **estructuras jerárquicas**, **recursividad**, y **persistencia de datos** de una forma práctica, lúdica y didáctica. El diseño del árbol de decisión con aprendizaje nos hizo reflexionar sobre cómo representar conocimiento y cómo hacer que un sistema evolucione con la experiencia. También reforzamos el trabajo en equipo y la importancia de planificar y dividir tareas en un desarrollo conjunto.
